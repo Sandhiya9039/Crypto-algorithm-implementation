@@ -1,4 +1,4 @@
-🔐 Java Crypto Project
+🔐 Crypto algorithms implementation Project
 
 Secure encryption with Java using:
 
